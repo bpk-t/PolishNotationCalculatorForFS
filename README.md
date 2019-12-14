@@ -1,0 +1,3 @@
+# PolishNotationCalculatorForFS
+
+FPasercを利用したポーランド記法の電卓
